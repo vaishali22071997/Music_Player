@@ -2,7 +2,8 @@ Music Player with repeat, repeat-one and shuffle mode with volume control and mu
 
 Screenshot :
 
-image
+![image](https://github.com/vaishali22071997/Music_Player/assets/137603391/8b925c06-c603-4213-915f-6c89da8a98c2)
+
 
 Modes :
 

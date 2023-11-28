@@ -1,4 +1,4 @@
-Music Player with repeat, repeat-one and shuffle mode with volume control and music list feature also present. This is the project made for Data Structures and Algorithm. Data structures used include a Circular Double Linked List, stacks and queues. File handling to read and write songs has also been used.
+Music Player with repeat, repeat-one and shuffle mode with volume control and music list feature also present. This is the project made for Data Structures and Algorithm. Data structures used include a Circular Double Linked List, stacks and queues. File handling to read and write songs has also been used. this music player implemented using a circular doubly linked list data structure.
 
 Screenshot :
 
